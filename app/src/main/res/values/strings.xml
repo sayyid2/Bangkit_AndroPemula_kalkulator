@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Try</string>
+    <string name="hight">Tinggi</string>
+    <string name="lenght">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="result">Hasil</string>
+    <string name="calculate">Hitung</string>
+</resources>
